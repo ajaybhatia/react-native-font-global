@@ -1,0 +1,24 @@
+{
+  "name": "react-native-font-global",
+  "version": "1.0.0",
+  "description": "React Native apply custom font for iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaybhatia/react-native-font-global.git"
+  },
+  "keywords": [
+    "React Native",
+    "React Native FOnts",
+    "React Native Global Fonts"
+  ],
+  "author": "Ajay Bhatia <prof.ajaybhatia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaybhatia/react-native-font-global/issues"
+  },
+  "homepage": "https://github.com/ajaybhatia/react-native-font-global#readme"
+}
